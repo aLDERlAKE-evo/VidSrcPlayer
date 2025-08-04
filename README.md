@@ -10,8 +10,9 @@ Good Ad blockware should work aswell.
 
 ### <ins> Work Flow </ins>
 This code allows you to skip all that hassle, and directly get the final link by just using a Command Line Interface.
-You just enter the name of your show, it should show you a list of shows which involves the said name from where you select the option you were looking for (Hopefully its there ＞﹏＜).
-From there you just enter its serial number and it will automatically open the link in you default browser.
+1. Enter the name of your show
+2. A list of shows which involves the said name from where you select the option you were looking for (Hopefully its there ＞﹏＜).
+3. Enter the appropriate serial number and it will automatically open the link in you default browser.
 
 ### <ins> Forseable Updates </ins>  
 The Second version primarily looks upto the addition of:  
