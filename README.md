@@ -1,3 +1,5 @@
+NOTE: For it to work, you'll need to get new API tokens for the "imdb" API from rapidAPI and replace the two tokens into the customAPI file.
+
 # **VidSrcPlayer**
 
 [VidSrc](https://vidsrc.to/) is a publically available API which provides you with links to watch your desired shows. 
