@@ -2,9 +2,14 @@ import requests
 import textwrap
 import webbrowser as wb
 
+# headers = {
+#     "x-rapidapi-key": "efc1793f25mshe7613cea3afeb19p17e4bfjsn9d8c45ebaeae",
+#     "x-rapidapi-host": "imdb8.p.rapidapi.com"
+# } Expired token
+
 headers = {
-    "x-rapidapi-key": "efc1793f25mshe7613cea3afeb19p17e4bfjsn9d8c45ebaeae",
-    "x-rapidapi-host": "imdb8.p.rapidapi.com"
+    'x-rapidapi-key': "9b73eee7c8msh1e77dc18e9f567cp16d47djsnb6a1fe88168a",
+    'x-rapidapi-host': "imdb8.p.rapidapi.com"
 }
 
 endpoints = {"movie": "https://vidsrc.to/embed/movie/",
